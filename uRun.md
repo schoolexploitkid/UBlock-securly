@@ -1,4 +1,4 @@
-uRun - Bypass bookmarklet restrictions with uBlock<br>
+<h2>uRun - Bypass bookmarklet restrictions with uBlock</h2><br>
 Note: Google is deprecating mv2, so uBlock will not work as of Oct 24, and will be fully removed for enterprise as well in June 25.<br>
 From Inglan2<br>
 Recently Google cracked down on bookmarklets and now they don't work (It's based on the DeveloperToolsAvailability policy). I wanted to run scripts still so I started making this, inspired by uBlock Run Run Code On Pages, but with more features, like saving scripts.<br>
