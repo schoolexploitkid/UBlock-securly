@@ -1,4 +1,4 @@
-<h2>uBlock Run Run Code On Pages</h2><br>
+<h2>uBlock Run Run Code On Pages</h2>
 Note: Google is deprecating mv2, so uBlock will not work as of Oct 24, and will be fully removed for enterprise as well in June 25.<br>
 If your school allows the uBlock Origin Chrome extension, you can run bookmarklets with the extension.<br>
 Requirements:<br>
