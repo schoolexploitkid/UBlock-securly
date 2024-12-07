@@ -7,8 +7,8 @@ Enable advanced settings, and click the gear ⚙️ button<br>
 Caution: DO NOT MODIFY ANYTHING ELSE ON THIS PAGE UNLESS YOU KNOW WHAT YOU ARE DOING (you probably don't), AS YOU COULD BREAK SOMETHING.<br>
 Tip: If you mess up, go to the home of settings and at the bottom click reset to default settings<br>
 Add the script<br>
-Change `userResourcesLocation unset` to `userResourcesLocation https://inglan2.github.io/uRun/urun.js`<br>
+Change <code>userResourcesLocation unset</code> to <code>userResourcesLocation https://inglan2.github.io/uRun/urun.js</code><br>
 Tip: It's down the bottom<br>
 Set a filter to load uRun<br>
-After closing the advanced settings tab, go to the filters tab and add this: `*##+js(urun.js)`<br>
+After closing the advanced settings tab, go to the filters tab and add this: <code>*##+js(urun.js)</code><br>
 Usage: Simply press Ctrl + Shift + ` to open the menu and from there you can run and create scripts. To add a script, press the ➕ button up the top right, and enter the code you would like to add (without the javascript: part).
